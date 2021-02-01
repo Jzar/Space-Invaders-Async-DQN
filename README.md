@@ -1,5 +1,5 @@
 # Space-Invaders-DQN
-An implementation of an Asych DQN to play Space Invaders using TensorFlow, Keras and Open-AI gym
+An implementation of an Asyc DQN to play Space Invaders using TensorFlow, Keras and Open-AI gym
 
 Written in Python2
 
